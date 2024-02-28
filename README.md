@@ -1,4 +1,4 @@
-Image/meta.jpg
+[Image/meta.jpg](https://github.com/YOGENDRADS/Simple-calculator-using-javascript-code/blob/main/Image/meta.jpg)
 A simple JavaScript Calculator made by Yogendra Kumar.
 
 Overview
